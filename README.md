@@ -202,7 +202,7 @@ graph LR
 
 *I'm always open to interesting conversations and collaboration opportunities!*
 
-**Email:** [your.email@example.com](mailto:ejsalvador.work@gmail.com)
+**Email:** [ejsalvador.work@gmail.com](mailto:ejsalvador.work@gmail.com)
 
 ---
 
