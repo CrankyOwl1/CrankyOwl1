@@ -33,7 +33,49 @@ const ethan = {
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/ethanjericho.salvador/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yekoslvdor/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](#)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio-url.vercel.app)
+
+</div>
+
+---
+
+## 🌟 Visit My Portfolio
+
+<div align="center">
+
+<a href="https://your-portfolio-url.vercel.app" target="_blank">
+  <img src="https://img.shields.io/badge/🚀_VIEW_MY_PORTFOLIO-FF5722?style=for-the-badge&logoColor=white" alt="Portfolio" height="50" />
+</a>
+
+### ✨ See My Work In Action!
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100" />
+      <br />
+      <b>Live Projects</b>
+      <br />
+      <sub>Interactive demos</sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100" />
+      <br />
+      <b>Case Studies</b>
+      <br />
+      <sub>Design process</sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100" />
+      <br />
+      <b>UI/UX Work</b>
+      <br />
+      <sub>Beautiful interfaces</sub>
+    </td>
+  </tr>
+</table>
+
+<sub>🎨 Built with React, Vite, and Tailwind CSS</sub>
 
 </div>
 
