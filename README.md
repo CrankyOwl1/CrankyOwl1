@@ -22,7 +22,7 @@ const ethan = {
     role: "Frontend Developer & UI/UX Designer",
     achievements: ["Bronze Medalist", "Dean's Lister", "Best Startup Idea"],
     currentFocus: ["React Development", "Modern CSS", "Web Performance"],
-    lifePhilosophy: "Crafting beautiful user experiences, one pixel at a time 💻✨"
+    lifePhilosophy: "Crafting Quality Digital Experience That Last💻✨"
 };
 ```
 
