@@ -33,7 +33,7 @@ const ethan = {
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/ethanjericho.salvador/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yekoslvdor/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio-url.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ejbsalvador.vercel.app)
 
 
 ---
@@ -202,7 +202,7 @@ graph LR
 
 *I'm always open to interesting conversations and collaboration opportunities!*
 
-**Email:** [your.email@example.com](mailto:your.email@example.com)
+**Email:** [your.email@example.com](mailto:ejsalvador.work@gmail.com)
 
 ---
 
