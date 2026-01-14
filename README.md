@@ -19,7 +19,7 @@ const ethan = {
     location: "Bayombong, Nueva Vizcaya 🇵🇭",
     education: "BS Information Technology @ Saint Mary's University",
     year: "4th Year | Class of 2026",
-    role: "Full Stack Developer & UI/UX Designer",
+    role: "Front-end Stack Developer & UI/UX Designer",
     achievements: ["Bronze Medalist", "Dean's Lister", "Best Startup Idea"],
     currentFocus: ["Web Development", "Mobile Apps", "AI Integration"],
     lifePhilosophy: "Building digital solutions that make a difference 💻✨"
