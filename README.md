@@ -2,7 +2,7 @@
   
 # 👋 Hey there! I'm Ethan Jericho Salvador
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;UI%2FUX+Enthusiast+%F0%9F%8E%A8;Tech+Innovator+%F0%9F%92%A1;Always+Learning+%F0%9F%93%9A)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Frontend+Developer+%F0%9F%9A%80;UI%2FUX+Designer+%F0%9F%8E%A8;React+Enthusiast+%E2%9A%9B%EF%B8%8F;Building+Beautiful+Interfaces+%F0%9F%8E%AF)](https://git.io/typing-svg)
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
@@ -19,10 +19,10 @@ const ethan = {
     location: "Bayombong, Nueva Vizcaya 🇵🇭",
     education: "BS Information Technology @ Saint Mary's University",
     year: "4th Year | Class of 2026",
-    role: "Front-end Stack Developer & UI/UX Designer",
+    role: "Frontend Developer & UI/UX Designer",
     achievements: ["Bronze Medalist", "Dean's Lister", "Best Startup Idea"],
-    currentFocus: ["Web Development", "Mobile Apps", "AI Integration"],
-    lifePhilosophy: "Building digital solutions that make a difference 💻✨"
+    currentFocus: ["React Development", "Modern CSS", "Web Performance"],
+    lifePhilosophy: "Crafting beautiful user experiences, one pixel at a time 💻✨"
 };
 ```
 
@@ -130,13 +130,13 @@ const ethan = {
 
 ```mermaid
 graph LR
-    A[Learning] --> B[Web3 Development]
-    A --> C[Advanced React Patterns]
-    A --> D[Cloud Architecture]
-    B --> E[Building Projects]
+    A[Learning] --> B[Advanced React/Next.js]
+    A --> C[Modern CSS & Animations]
+    A --> D[Performance Optimization]
+    B --> E[Building Amazing UIs]
     C --> E
     D --> E
-    E --> F[Open Source Contribution]
+    E --> F[Open Source & Community]
 ```
 
 <div align="center">
@@ -188,18 +188,10 @@ graph LR
 
 <div align="center">
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CrankyOwl1&repo=portfolio&theme=tokyonight&hide_border=true)](https://github.com/CrankyOwl1)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CrankyOwl1&repo=web-app&theme=tokyonight&hide_border=true)](https://github.com/CrankyOwl1)
+### 🚧 Building Amazing Things...
+*Check out my repositories below to see what I'm working on!*
 
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/CrankyOwl1/CrankyOwl1/output/github-contribution-grid-snake-dark.svg)
+[![Explore Repos](https://img.shields.io/badge/Explore%20My%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CrankyOwl1?tab=repositories)
 
 </div>
 
